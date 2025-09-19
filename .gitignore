@@ -217,3 +217,5 @@ __marimo__/
 
 # MNIST dataset
 lecture2/MNIST
+lecture3/mnist
+lecture3/runs
