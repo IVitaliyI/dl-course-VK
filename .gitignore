@@ -219,3 +219,10 @@ __marimo__/
 lecture2/MNIST
 lecture3/mnist
 lecture3/runs
+
+*MNIST*
+*mnist*
+*oi5_ball*
+*.pth
+*models*
+*.png
